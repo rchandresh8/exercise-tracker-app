@@ -1,3 +1,6 @@
+This project was created by the help of MERN Tutorial by Beau Carnes
+Original Repo : https://github.com/beaucarnes/mern-exercise-tracker-mongodb
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
